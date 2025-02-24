@@ -4,5 +4,7 @@ int sum(k,j)
 {
 	return (k+j);
 }
-int main()
-{}	
+void main()
+{
+	//this is a comment
+}	
